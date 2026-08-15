@@ -1,19 +1,24 @@
 # Samreen Saleem & Amna Zafar — SEO Specialists
 
-A responsive 5-page SEO agency website for Lahore, Pakistan.
+A responsive five-page SEO agency website for Lahore, Pakistan.
 
 ## Pages
-- Home
-- About
-- Services
-- Case Studies
-- Contact
+- Home — positioning, services and conversion CTA
+- About — approach and values
+- Services — technical SEO, content, local SEO, audits, on-page SEO and analytics
+- Case Studies — representative project frameworks and measurement approach
+- Contact — consultation CTA and contact details
 
 ## Stack
-Semantic HTML, CSS, and lightweight vanilla JavaScript. Images use Unsplash URLs.
+Semantic HTML, CSS and lightweight vanilla JavaScript. No build step or framework is required. Images use Unsplash URLs.
+
+## SEO
+Each page has a focused title, meta description and canonical URL. The homepage includes ProfessionalService structured data and Open Graph metadata. The project also includes `robots.txt` and `sitemap.xml`.
 
 ## Local preview
 Open `index.html` in a browser, or run a static server such as `python3 -m http.server`.
 
-## SEO
-Each primary page includes a unique title and meta description. The homepage includes canonical and Open Graph metadata.
+## Deployment
+The repository is ready for GitHub Pages or another static hosting provider.
+
+> Case studies are intentionally presented as representative SEO frameworks rather than fabricated client performance claims.
