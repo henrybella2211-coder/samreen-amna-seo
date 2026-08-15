@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://henrybella2211-coder.github.io/samreen-amna-seo/sitemap.xml
